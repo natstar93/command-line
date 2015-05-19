@@ -1,0 +1,5 @@
+wc stands for word count and can be used to count the number of words, lines and characters in a file
+
+wc -l [count number of lines]
+wc -m [count number of chars]
+wc -w [count number of words]
